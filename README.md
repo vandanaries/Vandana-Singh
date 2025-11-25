@@ -21,3 +21,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
 ## 📌 Featured Projects
+- **Dynamic Form App**: A schema-driven Angular application for building accessible, reusable, and dynamic forms.
+  - **Repository**: (https://github.com/vandanaries/dynamic-form-app.git)
+  - JSON-based configuration for flexible field rendering
+  - Validation and error handling built into schema
